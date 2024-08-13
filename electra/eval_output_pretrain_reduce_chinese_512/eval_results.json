@@ -1,0 +1,20 @@
+{
+    "eval_accuracy": 0.9720844811753903,
+    "eval_f1": 0.9565772550743407,
+    "eval_label": 0.9720844811753903,
+    "eval_loss": 0.17039309442043304,
+    "eval_precision": 0.9636415921520197,
+    "eval_recall": 0.9519752935536877,
+    "eval_recall_\u5316\u5b66": 0.994261119081779,
+    "eval_recall_\u5386\u53f2": 0.7881040892193308,
+    "eval_recall_\u5730\u7406": 0.9416666666666667,
+    "eval_recall_\u653f\u6cbb": 0.9018987341772152,
+    "eval_recall_\u6570\u5b66": 0.991941391941392,
+    "eval_recall_\u7269\u7406": 0.9826589595375722,
+    "eval_recall_\u751f\u7269": 0.9874301675977654,
+    "eval_recall_\u82f1\u8bed": 1.0,
+    "eval_recall_\u8bed\u6587": 0.9798165137614679,
+    "eval_runtime": 17.8249,
+    "eval_samples_per_second": 305.472,
+    "eval_steps_per_second": 1.234
+}

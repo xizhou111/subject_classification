@@ -1,0 +1,21 @@
+{
+    "eval_accuracy": 0.965840220385675,
+    "eval_f1": 0.9508137073750476,
+    "eval_loss": 0.15231050550937653,
+    "eval_precision": 0.9573023552630178,
+    "eval_recall": 0.9475508972119471,
+    "eval_recall_语文": 0.9926605504587156,
+    "eval_recall_数学": 0.9758241758241758,
+    "eval_recall_英语": 1.0,
+    "eval_recall_物理": 0.9757225433526011,
+    "eval_recall_化学": 0.994261119081779,
+    "eval_recall_生物": 0.9818435754189944,
+    "eval_recall_历史": 0.7843866171003717,
+    "eval_recall_地理": 0.9625,
+    "eval_recall_政治": 0.8607594936708861,
+    "eval_recall_macro avg": 0.9475508972119471,
+    "eval_recall_weighted avg": 0.965840220385675,
+    "eval_runtime": 43.6021,
+    "eval_samples_per_second": 124.879,
+    "eval_steps_per_second": 15.619
+}
